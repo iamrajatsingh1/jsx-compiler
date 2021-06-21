@@ -2535,12 +2535,7 @@
   dependencies:
     "delayed-stream" "~1.0.0"
 
-"commander@^2.11.0", "commander@^2.20.0":
-  "integrity" "sha512-7j2y+40w61zy6YC2iRNpUe/NwhNyoXrYpHMrSunaMG64nRnaf96zO/KMQR4OyN/UnE5KLyEBnKHd4aG3rskjpQ=="
-  "resolved" "https://registry.npmjs.org/commander/-/commander-2.20.0.tgz"
-  "version" "2.20.0"
-
-"commander@^2.18.0":
+"commander@^2.11.0", "commander@^2.18.0", "commander@^2.20.0":
   "integrity" "sha512-7j2y+40w61zy6YC2iRNpUe/NwhNyoXrYpHMrSunaMG64nRnaf96zO/KMQR4OyN/UnE5KLyEBnKHd4aG3rskjpQ=="
   "resolved" "https://registry.npmjs.org/commander/-/commander-2.20.0.tgz"
   "version" "2.20.0"
