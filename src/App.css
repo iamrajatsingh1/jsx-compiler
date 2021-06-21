@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  margin-top: 20px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.error {
+  color: red;
+  font-size: 1.2rem;
+}
+
+.container textarea {
+
+  width: 100%;
+  margin-right: 10px;
+  outline: none;
+  /* border: 2px solid blue; */
+}
+
+.container pre {
+  width: 100%;
+  padding-left: 30px;
+  /* border: 2px solid blue; */
+}
+
+.container {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  /* justify-content: space-; */
+  height: auto;
+}
+
+.copy {
+  margin: 0 auto;
+  width: 80%;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
